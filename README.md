@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<h1>A tabs component that will take in an array of items. Each item will have a label and a content property. When you click on each individual tab header, it should change the state of the tabs so that the correct content is displayed.</h1>
+
+- [x] Create a tabs component that accepts an array of varying length.
+- [x] Have the tab headers, when clicked on correctly show the appropriate content below.
+- [x] Allow each tab to optionally have a callback which gets fired when the relevant tab header is clicked.
+
+![](main_view.png)
